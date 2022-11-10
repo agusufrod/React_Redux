@@ -1,9 +1,10 @@
-import Komponen from './materi/Komponen';
+import Hooks from './materi/Hooks';
+// import Komponen from './materi/Komponen';
 
 function App() {
   return (
     <div className="App">
-      <Komponen />
+      <Hooks />
     </div>
   );
 }
